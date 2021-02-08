@@ -21,7 +21,7 @@ import models.Note;
 
 /**
  *
- * @author DiegoWR
+ * @author JudeAquino
  */
 public class NoteServlet extends HttpServlet {
 
