@@ -34,11 +34,4 @@ public class Note implements Serializable {
     public void setContents(String content) {
         this.contents = content;
     }
-    
-    
-    
-    
-    
-
-    
 }
